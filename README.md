@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @파썬이(Python/passioni)
+- 👋 Hi, I’m @파썬이(Python/Passioni)
 - 👀 I’m interested in coding(C++)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on noting yet :/ I will start a business.
